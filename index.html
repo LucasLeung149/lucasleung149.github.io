@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!--Header section of your html file. None of this will explicitly show up on
-    the webpage. You can set metadata, the style (using CSS, you can customise the
-    style of your webpage e.g. fonts, layouts etc. I don't really know how to write
-    CSS myself though so I'm just using the ones which are hosted on srcf.)-->
+    <!--Header section of your html file.-->
     <head>
+        
         <!--meta tags-->
         <meta charset="utf-8">
         <meta name="author" content="Lucas Leung">
@@ -14,10 +12,20 @@
         <title>Lucas_Leung_main</title>
 
         <!--style-->
-        <!--These are the links to css files on the srcf filesystem-->
-        <link href="/_srcf/vendor/css/font-awesome.min.css" rel="stylesheet">
-        <link href="/_srcf/vendor/css/bootstrap.min.css" rel="stylesheet">
-        <link href="/_srcf/srcf-bs.css" rel="stylesheet">
+        <style type="text/css">
+            @font-face {
+              font-family: "Computer Modern";
+              src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+              font-weight: italic;
+            }
+          
+            body {
+              font-family: "Computer Modern", sans-serif;
+            }
+            table, th, td {
+                border: 1px solid black;
+            }
+          </style>
     </head>
     <!--Line above closes the header section. Now onto the body section. This
         stuff will show up explicitly on your webpage.-->
