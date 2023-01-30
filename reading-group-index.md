@@ -1,6 +1,6 @@
 layout: page
 title: "reading-group-index"
-permalink: /reading_group_index
+permalink: /reading_group_index/
 
 <!DOCTYPE html>
 
