@@ -43,3 +43,7 @@ Over the years I have typed up some supplementary notes for the course. They wil
 The current version for the supplementary notes is hosted [here](https://lucasleung149.github.io/files/gr-supp-notes-students-06122025.pdf). This will be updated throughout the Christmas holidays but unfortunately I don't have much time right now to work on this...
  
 Groups and Representations are fundamental to what we do in high energy physics. In fact, our group uses that on a daily basis. This is therefore a mathematically-rigorous course to introduce you to all these concepts that might be quite daunting to start with. It will be difficult but it will be worth-it. If you have any questions about the lectures/tutorials/physics or mathematics in general, feel free to email me or chat to me after the classes!
+
+Extra Q&A Class
+======
+I will be running an extra Q&A class to answer questions about the course. This will be hosted online. If you are in my class, you should receive a Zoom link which I will later send out. The preliminary class time is set on 23 December at 1400 GMT.
