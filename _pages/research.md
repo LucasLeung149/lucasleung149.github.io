@@ -32,6 +32,7 @@ I currently mainly work with the heterotic $E_8 \times E_8$ theory, but these te
 Machine learning theory from Theoretical Physics
 ======
 
+
 Period structures and arithmetics in string theory
 ======
 
