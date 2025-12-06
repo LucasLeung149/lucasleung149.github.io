@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/groups-and-reps-oxford
 venue: "Department of Physics, University of Oxford"
-date: 2022-25
+date: 2022-10-22
 location: "Oxford, United Kingdom"
 ---
 
@@ -12,6 +12,7 @@ I have been a class tutor for my supervisor, Prof. Andre Lukas' course, Groups a
 
 Course Guide
 ======
+
 
 Course Materials
 ======
