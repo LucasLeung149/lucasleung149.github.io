@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/groups-and-reps-oxford
 venue: "Department of Physics, University of Oxford"
-date: 03-10-2022
+date: 03-10-2025
 location: "Oxford, United Kingdom"
 ---
 
