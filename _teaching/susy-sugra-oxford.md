@@ -1,14 +1,14 @@
 ---
 title: "Supersymmetry and Supergravity"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/susy-sugra-oxford
-venue: "Department of Physics, University of Oxford"
-date: 03-10-2022
+venue: "Mathematical Institute, University of Oxford"
+date: 03-10-2024
 location: "Oxford, United Kingdom"
 ---
 
-I have been a class tutor for my supervisor, Prof. Andre Lukas' course, Groups and Representations for four years. The course aims to introduce Lie groups and algebras to master's level students taking the MMathPhys course at Oxford.
+I was the teaching assistant and class tutor for String Theory I in the MMathPhys course at Oxford for Hilary Term 2025where I was responsible to mark the students' scripts and present problem solutions in class. This is an introductory course in supersymmetry, basically following Wess and Bagger.
 
 Course Guide
 ======
