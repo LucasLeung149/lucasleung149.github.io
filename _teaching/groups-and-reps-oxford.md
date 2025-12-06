@@ -23,9 +23,13 @@ I want to emphasise that this is not a stringent requirement – so as long as y
 ## How to understand the grades
 
 My marking normally follows these rules – I have given you a grade A,B,C or F at the end of each question. I have not included any physical marks (numbers) – this is because I find it quite hard to assign marks in different sub-parts of a question. Instead you will get a letter and they roughly correspond to:
+
 A - This is equivalent to a First-class. The attempt has shown excellent understanding of the course material, and can perform all book-work material to good extent. The attempt has shown extensive understanding of the material to use it in unfamiliar situations.
+
 B – This is equivalent to a 2:1. The attempt has shown good understanding of the course material, albeit with minor confusions. The student can utilise some of the material in unfamiliar situations.
+
 C – This is equivalent to a 2:2 or a Third-class. The attempt has shown good understanding of the course material, but with significant points of confusion. The student however is not quite capable to use the material in unfamiliar contexts.
+
 F – The attempt has shown poor understanding of the material or there are significant errors/misconceptions in the presentation.
  
 Apologies for the ‘ad-hoc’ way of marking – this kind of comes from the weird education system I grew to be familiar with.
