@@ -17,3 +17,15 @@ Click on the pages to know more about me!
 
 Research
 ======
+I am a string theorist - I am basically (much shorter and more autistic version) like Sheldon Cooper from Big Bang Theory.
+I work in the intersection between string theory, machine learning and geometry. Click on my Research tab for more details.
+My recent publications and talks can also be found in the relevant tabs.
+
+Teaching
+======
+I am currently teaching Groups and Representations of the MMathPhys course at Oxford and second-year Mathematical Methods at Mansfield. Click on Teaching for the details and for past courses.
+
+Fun Stuff when I am not studying
+======
+When I am not thinking about maths you will find me training with people. I used to be the captain for the triathlon team at Oxford.
+I also used to compose music - I am a pianist and a percussionist. Music by Brahms, Tchaikovsky and Mahler is the best.

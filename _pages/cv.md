@@ -18,17 +18,9 @@ Education
 Work experience
 ======
 *  2022 - now : Tutor and class tutor at Oxford
-  * University of Oxford
-  * Duties includes: Teaching undergraduate students
+  <!-- * University of Oxford
+  * Duties includes: Teaching undergraduate students -->
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -48,6 +40,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Skills
+======
+* ATCL in Piano
+* B1 in Spanish, A1 in Russian and French
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Representative for Theoretical Physics 2023-26
+* Blues Captain of Oxford University Triathlon Club 2024-25
+* Treasurer of Oxford University Triathlon Club 2023-24
+* PT Student Seminar Organiser 2023-24
+* Tutor of SOARS 2019-21
