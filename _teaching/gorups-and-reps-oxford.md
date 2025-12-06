@@ -10,11 +10,11 @@ location: "Oxford, United Kingdom"
 
 I have been a class tutor for my supervisor, Prof. Andre Lukas' course, Groups and Representations for four years. The course aims to introduce Lie groups and algebras to master's level students taking the MMathPhys course at Oxford.
 
-Heading 1
+Course Guide
 ======
 
-Heading 2
+Course Materials
 ======
 
-Heading 3
+Additional Notes
 ======

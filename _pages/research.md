@@ -39,19 +39,19 @@ There are some exciting new research in this direction however. One can for exam
 
 We can even use this to understand the behaviour of neural networks under training too! In particular, training neural networks requires playing around the so-called loss or target function in each particular problem - by interpreting the neural network as a field, one could perhaps find optimal ways of training neural networks. This is currently something being explored by our research group.
 
-Period structures and arithmetics in string theory
+Maths & Strings
 ======
-There are many mathematical structures hidden in string theory. For example, one of the major problems in string theory is to understand why geometrical parameters in our string compactifications, known as moduli fields, are not observed at low-energies. This is known as 'moduli stabilisation' in string theory. Understanding this problem requires a deep knowledge of the geometrical and topological properties of the internal manifold, as well as the low-energy supersymmetry breaking mechanisms and phenomenological calculations. Finding these possible scenarios where everything 'works out' is extremely difficult, and there is no single scenario which is mathematically-rigorous and avoids all phenomenological problems
+There are many mathematical structures hidden in string theory. For example, one of the major problems in string theory is to understand why geometrical parameters in our string compactifications, known as moduli fields, are not observed at low-energies. This is known as 'moduli stabilisation' in string theory. Understanding this problem requires a deep knowledge of the geometrical and topological properties of the internal manifold, as well as the low-energy supersymmetry breaking mechanisms and phenomenological calculations. Finding these possible scenarios where everything 'works out' is extremely difficult, and there is no single scenario which is mathematically-rigorous and avoids all phenomenological problems.
 
 In particular, the complex-structure moduli dependence of terms in the Lagrangian has a huge impact in moduli stabilisation. This concerns how the internal cycles within the Calabi-Yau manifold intersect and interact. It turns out that understanding this so-called 'period structure' is related to counting zeros of certain Riemann functions and is related to number theory, the field of counting prime numbers in pure mathematics! These structures are prevalent in theoretical physics and pure mathematics, and relates the Langlands programme with many physical problems such as scattering amplitudes in Quantum Field Theory. I am particularly interested in the relationship between number theory, enumerative geometry, mirror symmetry and string theory, and in particular, how we can use these mathematical properties to find new and mathematically-rigorous moduli stabilisation scenarios and to compute amplitudes in different QG theories.
 
-Non-perturbative effects in string theory and quantum gravity
+Non-perturbative effects in string theory and QG
 ======
 The current formulation of superstring theory is perturbative - where the amplitudes are calculated order-by-order. We however know that topological effects, which arise non-perturbatively, also contribute to the theory (and therefore into amplitudes and couplings). For example, there are extended objects in string theory known as D-branes that could wrap themselves around internal cycles, which provides a correction to low-energy physics.
 
 Computing these corrections are extremely difficult, and my collaborators and I have been trying to understand these computations systematically using algebraic geometry. In pariticular, calculating the exact corrections in a particular model requires the determination of the Gopakumar-Vafa invariants of the manifold as well as the locations of the cycles, both of which are still poorly understood and difficult to construct in generic cases.
 
-Non-stringy quantum gravity theories
+Non-stringy QGs
 ======
 I am also interested in other QG theories other than string theories. A particular type of QGs requires the use of matrices! These typically have a non-commutative structure and the formulation of matrix theories require the use non-commutative theory techniques. Some of these matrix theories are also conjectured to be non-perturbative formulations of string theory and M-theory, the particular relationship is still poorly understood.
 
