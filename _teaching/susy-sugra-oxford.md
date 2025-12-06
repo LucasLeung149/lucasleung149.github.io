@@ -8,14 +8,8 @@ date: 03-10-2024
 location: "Oxford, United Kingdom"
 ---
 
-I was the teaching assistant and class tutor for String Theory I in the MMathPhys course at Oxford for Hilary Term 2025where I was responsible to mark the students' scripts and present problem solutions in class. This is an introductory course in supersymmetry, basically following Wess and Bagger.
+I was the teaching assistant and class tutor for String Theory I in the MMathPhys course at Oxford for Hilary Term 2025 where I was responsible to mark the students' scripts and present problem solutions in class. This is an introductory course in supersymmetry, basically following Wess and Bagger.
 
-Course Guide
-======
+## Course Materials
 
-
-Course Materials
-======
-
-Additional Notes
-======
+(to be updated )
