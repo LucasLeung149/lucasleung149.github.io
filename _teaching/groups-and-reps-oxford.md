@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/groups-and-reps-oxford
 venue: "Department of Physics, University of Oxford"
-date: 2022-10-22
+date: 03-10-2022
 location: "Oxford, United Kingdom"
 ---
 
