@@ -1,8 +1,8 @@
 ---
-title: "Groups and Representations"
+title: "Supersymmetry and Supergravity"
 collection: teaching
-type: "Postgraduate course"
-permalink: /teaching/groups-and-reps-oxford
+type: "Undergraduate course"
+permalink: /teaching/susy-sugra-oxford
 venue: "Department of Physics, University of Oxford"
 date: 03-10-2022
 location: "Oxford, United Kingdom"

@@ -1,7 +1,7 @@
 ---
 title: "Groups and Representations"
 collection: teaching
-type: "Postgraduate course"
+type: "Undergraduate course"
 permalink: /teaching/groups-and-reps-oxford
 venue: "Department of Physics, University of Oxford"
 date: 03-10-2022
