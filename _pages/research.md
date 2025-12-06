@@ -27,7 +27,7 @@ One could ask the question - is it possible to extract the Standard Model as a l
 
 There is a very high number of topological and geometrical choices that will lead to the Standard Model. This is known as the string landscape - and we can use machine learning techniques to help us look for correct choices in this vast parameter space. For example, we can use genetic algorithms to look for string theories with matter taking correct charges in some symmetry that will give correct mass data at low-energies.
 
-I currently mainly work with the heterotic $E_8 \times E_8$ theory, but these techniques can be similarly generalised to analyse under string theory models, such as Type IIB orientifold compactifications, F-theory models, as so on.
+I currently mainly work with the heterotic $$E_8 \times E_8$$ theory, but these techniques can be similarly generalised to analyse under string theory models, such as Type IIB orientifold compactifications, F-theory models, as so on.
 
 Machine learning theory from Theoretical Physics
 ======
