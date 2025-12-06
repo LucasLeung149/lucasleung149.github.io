@@ -9,9 +9,9 @@ redirect_from:
 
 ## About me
 
-I am a fourth-year graduate student under the supervision of Prof Andre Lukas. My current interests include string phenomenology and string model building, applications of data science techniques and machine learning in string theory, as well as algorithmic algebraic geometry and applications in string model building.
+I am a fourth-year DPhil student under the supervision of Prof Andre Lukas. My current interests include string phenomenology and string model building, applications of data science techniques and machine learning in string theory, as well as algorithmic algebraic geometry and applications in string model building.
 
-My DPhil studies has been funded by the Croucher Foundation. My bio on their website can be found at https://scholars.croucher.org.hk/scholars/leung-lucas-tsun-yin.
+My DPhil studies has been funded by the Croucher Foundation. My bio on their website can be found at [here](https://scholars.croucher.org.hk/scholars/leung-lucas-tsun-yin). My department website is [here](https://www.physics.ox.ac.uk/our-people/leung).
 
 Click on the pages to know more about me!
 
@@ -25,7 +25,8 @@ My recent publications and talks can also be found in the relevant tabs.
 
 I am currently teaching Groups and Representations of the MMathPhys course at Oxford and second-year Mathematical Methods at Mansfield. Click on Teaching for the details and for past courses.
 
-## Fun Stuff when I am not studying
+## Fun Stuff when I am not thinking about Maths or Physics
 
-When I am not thinking about maths you will find me training with people. I used to be the captain for the triathlon team at Oxford.
+When I am not thinking about maths you will find me training with people. I used to be the captain for the triathlon team at Oxford. During my captaincy I have written a silly [guide for novices](https://lucasleung149.github.io/files/novice_doc-28may.pdf) - which you might find amusing!
+
 I also used to compose music - I am a pianist and a percussionist. Music by Brahms, Tchaikovsky and Mahler is the best.
