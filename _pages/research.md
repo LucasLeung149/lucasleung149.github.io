@@ -21,7 +21,7 @@ The most exciting development in the past decade was the inception of using data
 
 I am interested in a wide range of topics in the intersection between string theory with ML and geometry. Here are some of my current research topics that I am currently investigating.
 
-String Model Building (using Machine Learning)
+String Model Building and ML
 ======
 One could ask the question - is it possible to extract the Standard Model as a low-energy theory of string theory? To answer that is highly-nontrivial - string theory (as well as M-theory, F-theory) works in ten or more dimensions and since we only observe four dimensions at low-energies (3 spatial dimensions and 1 time dimension), we must 'hide' the six dimensions that we don't see by saying they are very small, wrapped up manifolds. This is called 'compactification' and typically this requires picking manifolds with particular topological and geometrical properties (Calabi-Yau manifolds) to obtain the correct low-energy spectrum and couplings.
 
@@ -29,15 +29,30 @@ There is a very high number of topological and geometrical choices that will lea
 
 I currently mainly work with the heterotic $$E_8 \times E_8$$ theory, but these techniques can be similarly generalised to analyse under string theory models, such as Type IIB orientifold compactifications, F-theory models, as so on.
 
-Machine learning theory from Theoretical Physics
+Physics4ML
 ======
+We have been talking a lot about AI these days. The fundamental unit, which most people more or less have heard of, are known as neural networks - these are simple ML architectures that one can use to approximate any function. This property (called the Universal Approximation) is why neural networks can be applied to many problems - it can basically numerically estimate the outcome.
 
+Despite the current advancements in artifical intelligence, machine learning techniques, deep neural network theory and, most widely-known, large language models (LLMs) however, the theory behind how these structures exactly work remains obscure. In particular, although we have some ideas in how to interpret neural network architectures and we can intuitively understand the process of training and initialisation of neural networks, a rigourous theory on exactly how neural networks behave under training is still unknown.
+
+There are some exciting new research in this direction however. One can for example try and understand the intialisation of neural networks by using a field theory approach. These mathematical approaches have been studied by theoretical physicists for over half a century and their theories have been well-developed. By reinterpreting neural networks as a particular configuration in the field-parameter space, we can perhaps gain some insight as to why certain choices of parameter initialisations are better suited in approximating functions.
+
+We can even use this to understand the behaviour of neural networks under training too! In particular, training neural networks requires playing around the so-called loss or target function in each particular problem - by interpreting the neural network as a field, one could perhaps find optimal ways of training neural networks. This is currently something being explored by our research group.
 
 Period structures and arithmetics in string theory
 ======
+There are many mathematical structures hidden in string theory. For example, one of the major problems in string theory is to understand why geometrical parameters in our string compactifications, known as moduli fields, are not observed at low-energies. This is known as 'moduli stabilisation' in string theory. Understanding this problem requires a deep knowledge of the geometrical and topological properties of the internal manifold, as well as the low-energy supersymmetry breaking mechanisms and phenomenological calculations. Finding these possible scenarios where everything 'works out' is extremely difficult, and there is no single scenario which is mathematically-rigorous and avoids all phenomenological problems
+
+In particular, the complex-structure moduli dependence of terms in the Lagrangian has a huge impact in moduli stabilisation. This concerns how the internal cycles within the Calabi-Yau manifold intersect and interact. It turns out that understanding this so-called 'period structure' is related to counting zeros of certain Riemann functions and is related to number theory, the field of counting prime numbers in pure mathematics! These structures are prevalent in theoretical physics and pure mathematics, and relates the Langlands programme with many physical problems such as scattering amplitudes in Quantum Field Theory. I am particularly interested in the relationship between number theory, enumerative geometry, mirror symmetry and string theory, and in particular, how we can use these mathematical properties to find new and mathematically-rigorous moduli stabilisation scenarios and to compute amplitudes in different QG theories.
 
 Non-perturbative effects in string theory and quantum gravity
 ======
+The current formulation of superstring theory is perturbative - where the amplitudes are calculated order-by-order. We however know that topological effects, which arise non-perturbatively, also contribute to the theory (and therefore into amplitudes and couplings). For example, there are extended objects in string theory known as D-branes that could wrap themselves around internal cycles, which provides a correction to low-energy physics.
+
+Computing these corrections are extremely difficult, and my collaborators and I have been trying to understand these computations systematically using algebraic geometry. In pariticular, calculating the exact corrections in a particular model requires the determination of the Gopakumar-Vafa invariants of the manifold as well as the locations of the cycles, both of which are still poorly understood and difficult to construct in generic cases.
 
 Non-stringy quantum gravity theories
 ======
+I am also interested in other QG theories other than string theories. A particular type of QGs requires the use of matrices! These typically have a non-commutative structure and the formulation of matrix theories require the use non-commutative theory techniques. Some of these matrix theories are also conjectured to be non-perturbative formulations of string theory and M-theory, the particular relationship is still poorly understood.
+
+The revival of matrix theories in recent years has been driven by its holographic relationship with gravity theories. In particular, these holographic relationships between QFTs in $$d$$-dimensions and gravity theories in $$(d-1)$$-dimensions allow the calculation of black hole thermodynamic quantities. This is a potential avenue to understand the black hole information paradox.
