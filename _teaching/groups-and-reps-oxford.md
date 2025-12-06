@@ -36,7 +36,7 @@ Unlike some courses the solutions to the questions will not be published. I will
 
 References and Supplementary Notes
 ======
-Andre’s notes is probably a good place to start if you have no idea what’s going on – they are an excellent set of notes with loads of details in it. In terms of books, the mathematically-inclined of you should refer to Fulton and Harris: https://link.springer.com/book/10.1007/978-1-4612-0979-9. I will recommend some other books as the course goes on. 
+[Andre’s notes](https://www-thphys.physics.ox.ac.uk/people/AndreLukas/GroupsandRepresentations/groupsrepslecturenotes.pdf) is probably a good place to start if you have no idea what’s going on – they are an excellent set of notes with loads of details in it. In terms of books, the mathematically-inclined of you should refer to [Fulton and Harris](https://link.springer.com/book/10.1007/978-1-4612-0979-). I will recommend some other books as the course goes on. 
 
 Over the years I have typed up some supplementary notes for the course. They will be distributed after classes are finished on Canvas. They are written in a weird format – some of them are quite chatty and informal but some of the sections are formal maths-supplementary sections. They are all non-examinable (so it is up to you how to use them). Please note that I will not share the solutions to the problems, so you should still aim to make notes during the class! That being said, please let me know if you have any questions (even on supplementary notes stuff) or ideas that you are curious about!
 
