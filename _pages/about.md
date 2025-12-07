@@ -11,7 +11,7 @@ redirect_from:
 
 I am a fourth-year DPhil student under the supervision of Prof Andre Lukas. My current interests include string phenomenology and string model building, applications of data science techniques and machine learning in string theory, as well as algorithmic algebraic geometry and applications in string model building.
 
-My DPhil studies has been funded by the Croucher Foundation. My bio on their website can be found at [here](https://scholars.croucher.org.hk/scholars/leung-lucas-tsun-yin). My department website is [here](https://www.physics.ox.ac.uk/our-people/leung).
+My DPhil studies have been funded by the Croucher Foundation. My bio on their website can be found at [here](https://scholars.croucher.org.hk/scholars/leung-lucas-tsun-yin). My department website is [here](https://www.physics.ox.ac.uk/our-people/leung).
 
 Before my DPhil I was a student at Cambridge, having completed Parts I and II Natural Sciences Tripos (Physics) and Part III Mathematics. I was awarded the Tyson Medal in 2022.
 
