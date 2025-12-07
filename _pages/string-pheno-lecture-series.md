@@ -13,7 +13,7 @@ Wednesdays 1000-1100 in TBC, Weeks 1-8 HT 2026
 
 String phenomenology is a well-established field - its main goal is to connect string theory with low-energy phenomena and address observational constraints of string-derived models. Since string theory is (for now) the only consistent QG theory, addressing how string theory connects with particle physics and cosmology allows us to understand how different low-energy observables are related non-trivially and therefore must be addressed simultaneously.
 
-In this lecture series, I am going to account the achievements and challenges of string phenomenology over the past few decades - from its inception by using Calabi-Yau manifolds to derive compactification models, to the current frontiers of research, including string cosmology, swampland conjectures (where most arguments are heavily based on string theory) and machine-learning applications. The lectures are going to be one-hour long and aim to address the basic ideas in each of the topics rather than providing a full account (which is impossible) of the field.
+In this lecture series, I am going to account the achievements and challenges of string phenomenology over the past few decades - from its inception of using Calabi-Yau manifolds to derive compactification models, to the current frontiers of research, including string cosmology, swampland conjectures (where most arguments are heavily based on string theory) and machine-learning applications. The lectures are going to be one-hour long and aim to address the basic ideas in each of the topics rather than providing a full account (which is impossible) of the field.
 
 ## Provisional Schedule
 
