@@ -58,4 +58,6 @@ I am also interested in other QG theories other than string theories. A particul
 The revival of matrix theories in recent years has been driven by its holographic relationship with gravity theories. In particular, these holographic relationships between QFTs in $$d$$-dimensions and gravity theories in $$(d-1)$$-dimensions allow the calculation of black hole thermodynamic quantities. This is a potential avenue to understand the black hole information paradox.
 
 ## Other interests and reading groups
-I have a broad interest in theoretical physics, pure mathematics and data science. Over my time in Oxford I have organised several reading groups, some of which you can find in [this page](https://lucasleung149.github.io/reading_groups/).
+I have a broad interest in theoretical physics, pure mathematics and data science. Over my time in Oxford I have organised several reading groups, some of which you can find on [this page](https://lucasleung149.github.io/reading_groups/).
+
+I am planning to run a lecture series on string phenomenology, which you can find more on [this page](https://lucasleung149.github.io/string-pheno-lecture-series/).
