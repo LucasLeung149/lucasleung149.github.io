@@ -44,7 +44,7 @@ Unlike some courses the solutions to the questions will not be published. I will
 
 Over the years I have typed up some supplementary notes for the course. They will be distributed after classes are finished on Canvas. They are written in a weird format – some of them are quite chatty and informal but some of the sections are formal maths-supplementary sections. They are all non-examinable (so it is up to you how to use them). Please note that I will not share the solutions to the problems, so you should still aim to make notes during the class! That being said, please let me know if you have any questions (even on supplementary notes stuff) or ideas that you are curious about!
 
-The current version for the supplementary notes is hosted [here](https://lucasleung149.github.io/files/gr-supp-notes-students-06122025.pdf). This will be updated throughout the Christmas holidays but unfortunately I don't have much time right now to work on this...
+The current version for the supplementary notes is hosted [here](https://lucasleung149.github.io/files/gr-supp-notes-students-05012026.pdf). Please send me an email if you spot any errors! (Current version updates: new tensor branching discussion + exponential map functoriality.)
  
 Groups and Representations are fundamental to what we do in high energy physics. In fact, our group uses that on a daily basis. This is therefore a mathematically-rigorous course to introduce you to all these concepts that might be quite daunting to start with. It will be difficult but it will be worth-it. If you have any questions about the lectures/tutorials/physics or mathematics in general, feel free to email me or chat to me after the classes!
 
