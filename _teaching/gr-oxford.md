@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/gr-oxford
 venue: "St Hilda's College and Mansfield College, University of Oxford"
-date: 16-01-2024
+date: 16-01-2026
 location: "Oxford, United Kingdom"
 ---
 
@@ -21,6 +21,8 @@ We will stay put and work hard. It will take us far.
 ## Details for tutorials
 
 My tutorials will be held at either St Hilda's or Mansfield. The details of the tutorials will be published here soon.
+
+For homework please send me an email titled 'College GR Problem Sheet X'. Deadline is the day before the tutorial at noon.
 
 ## Extra Materials
 
