@@ -22,11 +22,13 @@ We will stay put and work hard. It will take us far.
 
 My tutorials will be held at either St Hilda's or Mansfield. 
 
-For St Hilda's, the tutorials will be organised on Tuesdays, Weeks 2,4,6,7,8. Location is TBC.
+For St Hilda's, the tutorials will be organised on Tuesdays, Weeks 2,4,6,7,8. Location will be at the Cherwell Room in St Hilda's. I should have already sent you the groupings for the first tutorial but let me know if you are not sure when to turn up.
+
+For Mansfield, we will meet on Monday 26th January for the first tutorial. We will organise the timetable after that.
 
 For the first tutorial we will discuss some tensor methods and some differential geometry. Finish the first sheet as far as you can but let me know if you run into problems as the sheet will cover material a bit further ahead in the lectures.
 
-For Mansfield, I will organise the timetable for the tutorials a bit later.
+
 
 For homework please send me an email titled 'College GR Problem Sheet X'. Deadline is the day before the tutorial at noon.
 
