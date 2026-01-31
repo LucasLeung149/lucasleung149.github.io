@@ -24,7 +24,11 @@ My tutorials will be held at either St Hilda's or Mansfield.
 
 For St Hilda's, the tutorials will be organised on Tuesdays, Weeks 2,4,6,7,8. Location will be at the Cherwell Room in St Hilda's. I should have already sent you the groupings for the first tutorial but let me know if you are not sure when to turn up.
 
-For Mansfield, we will meet on Monday 26th January for the first tutorial. We will organise the timetable after that.
+For Mansfield, we will meet on Monday 26th January for the first tutorial.
+
+Tutorial 1 - Week 2 Monday 1600 at Department of Physics
+Tutorial 2 - Week 4 Monday 1600 at Mansfields (location TBC)
+Tutorial 3 - TBC
 
 For the first tutorial we will discuss some tensor methods and some differential geometry. Finish the first sheet as far as you can but let me know if you run into problems as the sheet will cover material a bit further ahead in the lectures.
 
@@ -34,6 +38,10 @@ For homework please send me an email titled 'College GR Problem Sheet X'. Deadli
 
 ## Extra Materials
 
+The current version of the tutorial notes is [here](https://lucasleung149.github.io/files/gr-tuts-oxford.pdf), currently last updated on 31 January. 
+
 Tutorial 1.
+
+In this tutorial we covered the motivations for GR and some elementary differential geometry concepts, namely manifolds, curves, functions, vectors, tensors and metrics. See sections 1-2 in my notes.
 
 (to be updated )
