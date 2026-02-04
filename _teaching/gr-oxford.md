@@ -26,9 +26,11 @@ For St Hilda's, the tutorials will be organised on Tuesdays, Weeks 2,4,6,7,8. Lo
 
 For Mansfield, we will meet on Monday 26th January for the first tutorial.
 
-Tutorial 1 - Week 2 Monday 1600 at Department of Physics
-Tutorial 2 - Week 4 Monday 1600 at Mansfields (location TBC)
-Tutorial 3 - TBC
+| Tutorial | Week | Time | Location |
+| ------ | ----- | ------ | ----- |
+| 1 | Week 2 | Monday 1600 | Department of Physics |
+| 2 | Week 4 | Monday 1600 | Mansfield (location TBC) |
+
 
 For the first tutorial we will discuss some tensor methods and some differential geometry. Finish the first sheet as far as you can but let me know if you run into problems as the sheet will cover material a bit further ahead in the lectures.
 
