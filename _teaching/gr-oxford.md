@@ -29,21 +29,37 @@ For Mansfield, we will meet on Monday 26th January for the first tutorial.
 | Tutorial | Week | Time | Location |
 | ------ | ----- | ------ | ----- |
 | 1 | Week 2 | Monday 1600 | Department of Physics |
-| 2 | Week 4 | Monday 1600 | Mansfield (location TBC) |
-
+| 2 | Week 4 | Monday 1600 | Department of Physics |
 
 For the first tutorial we will discuss some tensor methods and some differential geometry. Finish the first sheet as far as you can but let me know if you run into problems as the sheet will cover material a bit further ahead in the lectures.
 
+From the third tutorial all the tutorials will be on Tuesdays, Weeks 6-8 held at the Cherwell Room in St Hilda's college. Details are as follows: 
+| Tutorial | Week | Time | Location | Topic |
+| ------ | ----- | ------ | ----- | ---- | 
+| 3 | Week 6 | Tuesday 1330/1500/1630 | Cherwell Room, St Hilda's | Curvature and Einstein's equations |
+| 4 | Week 7 | Tuesday 1330/1500/1630 | Cherwell Room, St Hilda's | The Schwarzschild solution and BHs |
+| 5 | Week 8 | Tuesday 1330/1500/1630 | Cherwell Room, St Hilda's | Cosmology |
 
 
-For homework please send me an email titled 'College GR Problem Sheet X'. Deadline is the day before the tutorial at noon.
+For homework please send me an email titled 'College GR Problem Sheet X'. Deadline is noon on the Monday before the tutorial.
+
 
 ## Extra Materials
 
-The current version of the tutorial notes is [here](https://lucasleung149.github.io/files/gr-tuts-oxford.pdf), currently last updated on 31 January. 
+The current version of the tutorial notes is [here](https://lucasleung149.github.io/files/gr-tuts-oxford.pdf), currently last updated on 21 February. 
 
 Tutorial 1.
 
 In this tutorial we covered the motivations for GR and some elementary differential geometry concepts, namely manifolds, curves, functions, vectors, tensors and metrics. See sections 1-2 in my notes.
 
+Tutorial 2.
+
+In this tutorial we discussed connections and geodesics. See section 3 of my notes.
+
 (to be updated )
+
+Tutorial 3.
+
+Tutorial 4.
+
+Tutorial 5.
