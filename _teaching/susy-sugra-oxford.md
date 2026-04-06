@@ -31,11 +31,24 @@ The classes for this course is run by me on Thursdays and Fridays of Weeks 2,5,6
 
 Let me know if you have any problems.
 
+## Revision class
+
+There will be a revision class held on 15 Apr 2026, at 1400 BST. I intend to cover the 2018 past paper along with Q1 from 2021 and 2022. You may also find the following questions helpful for revision:
+
+- Oxford MMathPhys: 2020 Q1-2, 2019 Q1, 2017 Q1-4, 2016 Q1
+- Cambridge Part III: 2023 Q1, 2022 Q1-2
+
+The zoom link for the revision class is published on Moodle.
+
+
 ## Notes and materials
 I will publish some class notes (subject to how busy I am) after each class. They will basically include the basic discussion of what I have went through in class.
 
-You can find the latest version [here](https://lucasleung149.github.io/files/susy_class_notes.pdf).
-Last updated: 4 Feb 2026.
+You can find the latest version [here](https://lucasleung149.github.io/files/susy_class_notes-06042026.pdf).
+
+Last updated: 6 Apr 2026.
+
+Note that the notes are currently only updated to half of Class 3. I intend to finish the notes at some point but since I am currently very busy I might not be able to finish this before the exam. If you are interested please send me an email and I can send over to you the handwritten versions for the class notes for Classes 3 and 4. 
 
 Health warning: if you aren't mathematically-oriented, please don't read beyond Appendix A.
 
