@@ -40,6 +40,8 @@ There will be a revision class held on 15 Apr 2026, at 1400 BST. I intend to cov
 
 The zoom link for the revision class is published on Moodle.
 
+Scribble for the class is available [here](https://lucasleung149.github.io/files/susy_revision_class_scribble.pdf).
+
 
 ## Notes and materials
 I will publish some class notes (subject to how busy I am) after each class. They will basically include the basic discussion of what I have went through in class.
@@ -48,7 +50,12 @@ You can find the latest version [here](https://lucasleung149.github.io/files/sus
 
 Last updated: 6 Apr 2026.
 
-Note that the notes are currently only updated to half of Class 3. I intend to finish the notes at some point but since I am currently very busy I might not be able to finish this before the exam. If you are interested please send me an email and I can send over to you the handwritten versions for the class notes for Classes 3 and 4. 
+Note that the notes are currently only updated to half of Class 3. I intend to finish the notes at some point but since I am currently very busy I might not be able to finish this before the exam. The scribbles for class 3 and 4 can be found below --
+
+[Class 3](https://lucasleung149.github.io/files/susy_class_3_scribble.pdf).
+
+[Class 4](https://lucasleung149.github.io/files/susy_class_4_scribble.pdf).
+
 
 Health warning: if you aren't mathematically-oriented, please don't read beyond Appendix A.
 
