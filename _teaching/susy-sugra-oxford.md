@@ -46,15 +46,17 @@ Scribble for the class is available [here](https://lucasleung149.github.io/files
 ## Notes and materials
 I will publish some class notes (subject to how busy I am) after each class. They will basically include the basic discussion of what I have went through in class.
 
-You can find the latest version [here](https://lucasleung149.github.io/files/susy_class_notes-06042026.pdf).
+You can find the latest version [here](https://lucasleung149.github.io/files/susy_class_notes-18042026.pdf).
 
-Last updated: 6 Apr 2026.
+Last updated: 18 Apr 2026 -- small notes on SUSY-breaking added.
 
-Note that the notes are currently only updated to half of Class 3. I intend to finish the notes at some point but since I am currently very busy I might not be able to finish this before the exam. The scribbles for class 3 and 4 can be found below --
+Note that the notes are currently only updated to half of Class 4. I intend to finish the notes at some point but since I am currently very busy I might not be able to finish this before the exam. The scribbles for class 3 and 4 can be found below --
 
 [Class 3](https://lucasleung149.github.io/files/susy_class_3_scribble.pdf).
 
 [Class 4](https://lucasleung149.github.io/files/susy_class_4_scribble.pdf).
+
+The links will be removed after the exam. I will try and finish the notes.
 
 
 Health warning: if you aren't mathematically-oriented, please don't read beyond Appendix A.
